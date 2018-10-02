@@ -1,8 +1,8 @@
-# izara-package
-
+izara-package
 Helper modules.
 
 Installation
 $ npm install izara
+
 License
-- MIT
+MIT
